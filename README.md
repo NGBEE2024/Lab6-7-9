@@ -1,5 +1,5 @@
+# L6
 python3 -m pip install flask
-
 
 double click open terminal
 cd
@@ -13,11 +13,8 @@ nano xxx.py
 ctrl o , enter, ctrl x
 ctrl o = save, crtl x = exit
 
-
-
 dockerfile: instructions for docker to run when containerizing the application
 requirements.txt: python libraries and their respective versions
-
 
 	1. build docker image : docker build -t flask-app
 	2. docker image ls (list all the images locally and check if the app I created just now has been created)
@@ -35,5 +32,10 @@ requirements.txt: python libraries and their respective versions
 ![image](https://github.com/user-attachments/assets/17172efa-a853-45b6-b43b-dc386c9f42e6)
 
 			
-		
-		
+# L7
+
+![image](https://github.com/user-attachments/assets/8514254b-d0b8-4d7f-a5c4-812846a2a3b2)
+
+# L9
+![image](https://github.com/user-attachments/assets/c3a3861c-2cb1-438d-b784-b185e9e84021)
+
